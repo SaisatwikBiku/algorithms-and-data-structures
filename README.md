@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/SaisatwikBiku/algorithms-and-data-structures/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/SaisatwikBiku/algorithms-and-data-structures/tree/master/0070-climbing-stairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -23,4 +24,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/SaisatwikBiku/algorithms-and-data-structures/tree/master/0016-3sum-closest) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/SaisatwikBiku/algorithms-and-data-structures/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/SaisatwikBiku/algorithms-and-data-structures/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
