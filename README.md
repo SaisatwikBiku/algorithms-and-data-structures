@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/SaisatwikBiku/algorithms-and-data-structures/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/SaisatwikBiku/algorithms-and-data-structures/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/SaisatwikBiku/algorithms-and-data-structures/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/SaisatwikBiku/algorithms-and-data-structures/tree/master/0070-climbing-stairs) |
