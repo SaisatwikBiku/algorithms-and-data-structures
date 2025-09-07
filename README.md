@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/SaisatwikBiku/algorithms-and-data-structures/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/SaisatwikBiku/algorithms-and-data-structures/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SaisatwikBiku/algorithms-and-data-structures/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Memoization
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/SaisatwikBiku/algorithms-and-data-structures/tree/master/0013-roman-to-integer) |
+| [0022-generate-parentheses](https://github.com/SaisatwikBiku/algorithms-and-data-structures/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SaisatwikBiku/algorithms-and-data-structures/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/SaisatwikBiku/algorithms-and-data-structures/tree/master/0058-length-of-last-word) |
 ## String Matching
@@ -56,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/SaisatwikBiku/algorithms-and-data-structures/tree/master/0019-remove-nth-node-from-end-of-list) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/SaisatwikBiku/algorithms-and-data-structures/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
