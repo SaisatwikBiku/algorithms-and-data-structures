@@ -1,7 +1,16 @@
 class Solution:
     def isPalindrome(self, s: str) -> bool:
-        low_s = s.lower()
+        # two pointer method:
+        s = ''.join(ch.lower() for ch in s if ch.isalnum())
 
-        cleaned = ''.join(ch for ch in low_s if ch.isalnum())
+        left = 0
+        right = len(s)-1
 
-        return cleaned == cleaned[::-1]
+        while left<right:
+            if s[left] != s[right]:
+                return False
+
+            left += 1
+            right -= 1
+
+        return True        
