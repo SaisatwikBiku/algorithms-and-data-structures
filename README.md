@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/SaisatwikBiku/algorithms-and-data-structures/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/SaisatwikBiku/algorithms-and-data-structures/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SaisatwikBiku/algorithms-and-data-structures/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0125-valid-palindrome](https://github.com/SaisatwikBiku/algorithms-and-data-structures/tree/master/0125-valid-palindrome) |
 ## Sorting
 |  |
 | ------- |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/SaisatwikBiku/algorithms-and-data-structures/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SaisatwikBiku/algorithms-and-data-structures/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/SaisatwikBiku/algorithms-and-data-structures/tree/master/0058-length-of-last-word) |
+| [0125-valid-palindrome](https://github.com/SaisatwikBiku/algorithms-and-data-structures/tree/master/0125-valid-palindrome) |
 ## String Matching
 |  |
 | ------- |
