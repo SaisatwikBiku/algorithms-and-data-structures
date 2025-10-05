@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/SaisatwikBiku/algorithms-and-data-structures/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/SaisatwikBiku/algorithms-and-data-structures/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SaisatwikBiku/algorithms-and-data-structures/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0217-contains-duplicate](https://github.com/SaisatwikBiku/algorithms-and-data-structures/tree/master/0217-contains-duplicate) |
 ## Math
 |  |
 | ------- |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/SaisatwikBiku/algorithms-and-data-structures/tree/master/0016-3sum-closest) |
+| [0217-contains-duplicate](https://github.com/SaisatwikBiku/algorithms-and-data-structures/tree/master/0217-contains-duplicate) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/SaisatwikBiku/algorithms-and-data-structures/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SaisatwikBiku/algorithms-and-data-structures/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0217-contains-duplicate](https://github.com/SaisatwikBiku/algorithms-and-data-structures/tree/master/0217-contains-duplicate) |
 ## Linked List
 |  |
 | ------- |
