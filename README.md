@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SaisatwikBiku/algorithms-and-data-structures/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/SaisatwikBiku/algorithms-and-data-structures/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/SaisatwikBiku/algorithms-and-data-structures/tree/master/0268-missing-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SaisatwikBiku/algorithms-and-data-structures/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Math
 |  |
 | ------- |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SaisatwikBiku/algorithms-and-data-structures/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0217-contains-duplicate](https://github.com/SaisatwikBiku/algorithms-and-data-structures/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/SaisatwikBiku/algorithms-and-data-structures/tree/master/0268-missing-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SaisatwikBiku/algorithms-and-data-structures/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Linked List
 |  |
 | ------- |
